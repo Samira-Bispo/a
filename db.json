@@ -1,4 +1,4 @@
-
+{
   "personagens": [
     { "id": 1, "nome": "Hu Tao", "idade": "19 anos", "visao": "Pyro", "arma": 1, "url": "https://static.wikia.nocookie.net/genshin-impact/images/d/d1/Personagem_Hutao_Cart%C3%A3o.jpg/revision/latest?cb=20210302180450&path-prefix=pt-br" },
     { "id": 2, "nome": "Zhongli", "idade": "6000+", "visao": "Geo", "arma": 1, "url": "https://viciados.net/wp-content/uploads/2020/12/2020112315443945658-1200x750-1-1000x600.png" },
@@ -10,5 +10,9 @@
     { "id": 2, "nome": "Arco de Amos", "estilo": "Arco", "url": "https://static.wikia.nocookie.net/gensin-impact/images/0/0d/Weapon_Amos%27_Bow_2nd.png/revision/latest?cb=20201119200004" },
     { "id": 3, "nome": "Fumetsu Gekka", "estilo": "Catalisador", "url": "https://d3fd5j8wprxn3h.cloudfront.net/wp-content/uploads/2021/09/genshin-impact.jpg" },
     { "id": 4, "nome": "Cortadora da Neblina Reforjada", "estilo": "Espada", "url": "https://criticalhits.com.br/wp-content/uploads/2021/07/Screenshot_13-3.png" }
-  ]
+  ],
+  "empresa": {
+    "nome": "Hoyoverse"
+  }
+}
 
